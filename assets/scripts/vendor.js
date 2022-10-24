@@ -54,3 +54,5 @@ function removeBonusLife() {
 function setPlayerHealth(health) {
   playerHealthBar.value = health;
 }
+
+let id = "prlp";
